@@ -4,3 +4,39 @@ h1{
     background-color: gainsboro;
     justify-content: center;
 }
+
+.parameter{
+    width:60%;
+    border: 1px solid black;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    
+
+}
+
+.parameter_item >p{
+    flex:1;
+    width:30%;
+    border: 1px solid black;
+
+}
+
+.parameter_item{
+    display: flex;
+    border: 1px solid black;
+    text-align: center;
+
+}
+
+#countrys_flag{
+
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    width: 40%;
+    object-fit: cover;
+    padding: 1rem;
+    margin:auto;
+
+}
