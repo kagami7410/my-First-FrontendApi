@@ -1,0 +1,6 @@
+h1{
+    display: flex;
+    text-align: center;
+    background-color: gainsboro;
+    justify-content: center;
+}
